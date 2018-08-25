@@ -1,0 +1,41 @@
+[{
+    "image":"/img/duebass.jpg",
+    "audio":"/sound/盖世英雄 (G-Tracy Remix).mp3",
+    "song":"盖世英雄",
+    "album":"盖世英雄真的到来",
+    "singer":"cover王力宏",
+    "duration": 162,
+    "isLike": true
+},{
+    "image":"/img/duebass2.jpg",
+    "audio":"/sound/一步成诗.mp3",
+    "song":"一步成诗",
+    "album":"情话",
+    "singer":"王诗安",
+    "duration": 198,
+    "isLike": false
+},{
+    "image":"/img/duebass3.jpg",
+    "audio":"/sound/EiEi.mp3",
+    "song":"EiEi",
+    "album":"偶像练习生",
+    "singer":"Nine Percent",
+    "duration": 226,
+    "isLike": true
+},{
+    "image":"/img/xiaojiejie.jpg",
+    "audio":"/sound/盖世英雄.mp3",
+    "song":"盖世英雄",
+    "album":"盖世英雄",
+    "singer":"王力宏",
+    "duration": 217,
+    "isLike": true
+},{
+    "image":"/img/doctors.jpg",
+    "audio":"/sound/니가내가.mp3",
+    "song":"니가내가",
+    "album":"doctors异乡人OST",
+    "singer":"敏雅",
+    "duration": 170,
+    "isLike": true
+}]
